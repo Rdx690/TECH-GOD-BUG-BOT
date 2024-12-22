@@ -1,9 +1,7 @@
-//base by Tech-God
+//base by *◄⏤͟͞➸⃝❥͜͡𝐒𝐎𝐔𝐑𝐀𝐉𝐈𝐓➸⃝🕊️-God*
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
+//YouTube: @SAYANCREATE_1
+//Instagram: instergram19user
 //WhatsApp: +917466008456
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 
@@ -222,7 +220,7 @@ async function loading () {
 var xeonlod = [
 "《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
 "《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒Tech-God▒▒▒》50%",
+"《 ███████▒▒*◄⏤͟͞➸⃝❥͜͡𝐒𝐎𝐔𝐑𝐀𝐉𝐈𝐓➸⃝🕊️*▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
 "𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🐛..."
